@@ -20,7 +20,7 @@ namespace TrabGrupoM9_Pert
             }
             int maximo = numeros[0];
             int indice = 1;
-            for (int i = 1; i < numeros.Length; i++)9
+            for (int i = 1; i < numeros.Length; i++)
             {
                 if (numeros[i] > maximo)
                 {
@@ -30,8 +30,7 @@ namespace TrabGrupoM9_Pert
             }
             Console.WriteLine($"Maior número: {maximo}, índice: {indice + 1}");
             Console.WriteLine("njfibduifgberuifbhuidbguyr");
-            Console.WriteLine("njfngfjni"); Console.WriteLine(
-            Console.ReadKey();
+            
             Console.ReadKey();
             Console.WriteLine("castanho");
           
