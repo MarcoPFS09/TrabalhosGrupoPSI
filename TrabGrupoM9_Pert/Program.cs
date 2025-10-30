@@ -29,6 +29,7 @@ namespace TrabGrupoM9_Pert
                 }
             }
             Console.WriteLine($"Maior número: {maximo}, índice: {indice + 1}");
+            Console.WriteLine("njfibduifgberuifbhuidbguyr");
             Console.ReadKey(); 
         }
     }
