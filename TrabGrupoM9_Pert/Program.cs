@@ -30,8 +30,6 @@ namespace TrabGrupoM9_Pert
             }
             Console.WriteLine($"Maior número: {maximo}, índice: {indice + 1}");
             Console.ReadKey(); 
-            Console.WriteLine("fuidbgvui");
-            Console.WriteLine("es um gay seu palahco gordo carlos 2.0");
         }
     }
 }
