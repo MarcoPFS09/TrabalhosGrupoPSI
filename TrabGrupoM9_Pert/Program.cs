@@ -20,7 +20,7 @@ namespace TrabGrupoM9_Pert
             }
             int maximo = numeros[0];
             int indice = 1;
-            for (int i = 1; i < numeros.Length; i++)
+            for (int i = 1; i < numeros.Length; i++)9
             {
                 if (numeros[i] > maximo)
                 {
